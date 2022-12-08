@@ -37,13 +37,6 @@ docker-compose up
 
 ## Features
 
-What's all the bells and whistles this project can perform?
-* Authentication fuctionality for Redactor/User
-* Adding newspapers & managing topics directrly from website interface
-* Admin panel for advanced managing
-
-### Features
-
 - JWT authenticated
 - Admin panel /admin/
 - Documentation is located at /api/doc/swagger/ or api/doc/redoc/
